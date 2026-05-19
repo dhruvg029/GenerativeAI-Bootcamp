@@ -18,7 +18,6 @@ wikipedia
 ipykernel
 langchainhub
 python-dotenv
-pypdf
 bs4
 pymupdf
 langchain-text-splitters
