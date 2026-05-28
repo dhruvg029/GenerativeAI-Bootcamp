@@ -4,7 +4,7 @@
   <img width="920" height="400" alt="image" src="https://github.com/user-attachments/assets/fd6eb936-8eb5-47a7-a079-261af01aee63" />
 </p>
 
-This repository contains implementations of Generative AI concepts and workflows, following courses by [Krish Naik](https://www.krishnaik.in/) on Udemy. It serves as a personal learning ledger and reference guide, and it will be updated continuously as new tools and frameworks emerge. **Feel free to star it if you find it useful!**
+This repository contains implementations of Generative AI concepts and workflows, following courses by [Krish Naik](https://www.krishnaik.in/) on Udemy. It serves as a personal learning ledger and reference guide, and it will be updated continuously as new tools and frameworks emerge. It also consists of recent developments and changes to the Langchain framework, and the code which are in the courses and here, may vary. **Feel free to star it if you find it useful!** ⭐
 
 ---
 
