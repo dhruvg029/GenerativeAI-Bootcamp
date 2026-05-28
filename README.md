@@ -1,4 +1,4 @@
-# 🪙 Generative AI Repertoire
+# 🧠 Generative AI Repertoire
 
 <p align="center">
   <img width="920" height="400" alt="image" src="https://github.com/user-attachments/assets/fd6eb936-8eb5-47a7-a079-261af01aee63" />
