@@ -16,3 +16,10 @@ The project is split into two primary segments to demonstrate the transition fro
 
 - [Langchain-V1:](https://github.com/dhruvg029/GenerativeAI-Bootcamp/tree/main/1-Langchain-V1) Legacy implementations and foundational concepts of Langchain which includes basic RAG concepts, retreivers, LCEL and a basic chatbot implementation from scratch.
 - [Langchain-V2;](https://github.com/dhruvg029/GenerativeAI-Bootcamp/tree/main/2-Langchain-V2) Modern LangChain architecture and production-ready tools such as tools, agents, wrappers, and deployment using streamlit cloud, and some advanced projects with the help of GROQ and OLLAMA models. 
+  - **QnA Chatbots:** Some basic chatbots such as a `Conversational RAG`, `Document Search RAG`, and `Chatbot with SQL Toolkit` have been implemented using tools, agents and langchain framework.
+  - **Search Engine LLM:** This simple generative ai helps to look up information from websites like `Arxiv`, `wikipedia` or `duck duck go`, instead of just guessing. It takes help of tools and agents to find the information and provide it to the user.
+  - **Text Summarization:** A streamlit application to perform text summarization on YT or Website URL. Various inbuilt summarization tools such as `load_summarize_chain()`, `LLMchain()`, and `PromptTemplate()` have been used for experimenting purposes.
+  - **MathsGPT:** A streamlit application to perform math calculations using `LLMMathChain()` and `StreamlitCallbackHandler()` functions.
+  - A simple project to perform integration of Huggingface with Langchain, using `HuggingFaceEndpoint()`. The difference is to provide the repo id with the token to invoke the LLM.
+  - A simple **PDF-Query RAG** to store the data into AstraDB (Cassandra) using `cassIO`, `OllamaEmbeddings` and AstraDB credentials such as `ASTRA_DB_APPLICATION_TOKEN` and `ASTRA_DB_ID`.
+  - A CodeLlama assistant implementation using `Gradio` library and rest API.
