@@ -12,7 +12,7 @@ This repository contains implementations of Generative AI concepts and workflows
 
 ### 1) Langchain
 
-The project is split into two primary segments to demonstrate the transition from legacy LangChain syntax to the modern ecosystem.
+The project is split into two primary segments to demonstrate the transition from legacy LangChain syntax to the modern ecosystem. These resources are from Udemy's [Complete Generative AI Course With Langchain and Huggingface](https://www.udemy.com/course/complete-generative-ai-course-with-langchain-and-huggingface/learn/lecture/44782435?start=150#overview) course.
 
 - [Langchain-V1:](https://github.com/dhruvg029/GenerativeAI-Bootcamp/tree/main/1-Langchain-V1) Legacy implementations and foundational concepts of Langchain which includes basic RAG concepts, retreivers, LCEL and a basic chatbot implementation from scratch.
 - [Langchain-V2;](https://github.com/dhruvg029/GenerativeAI-Bootcamp/tree/main/2-Langchain-V2) Modern LangChain architecture and production-ready tools such as tools, agents, wrappers, and deployment using streamlit cloud, and some advanced projects with the help of GROQ and OLLAMA models. 
