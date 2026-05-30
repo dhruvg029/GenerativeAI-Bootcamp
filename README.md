@@ -23,5 +23,5 @@ The project is split into two primary segments to demonstrate the transition fro
   - A simple project to perform integration of Huggingface with Langchain, using `HuggingFaceEndpoint()`. The difference is to provide the repo id with the token to invoke the LLM.
   - A simple **PDF-Query RAG** to store the data into AstraDB (Cassandra) using `cassIO`, `OllamaEmbeddings` and AstraDB credentials such as `ASTRA_DB_APPLICATION_TOKEN` and `ASTRA_DB_ID`.
   - A CodeLlama assistant implementation using `Gradio` library and rest API.
-  - **Hybrid Search:** A simple implementation of Hybrid Search is covered using Langchain and Pinecone database.
+  - **Hybrid Search:** A simple implementation of Hybrid Search is covered using Langchain and `Pinecone` database, and `PineconeHybridSearchRetriever`.
   - **Graph Databases:** Where Knowledge graph is applied with the help of different tools such as `Neo4jGraph`, created chains with the help of `GraphCypherQAChain` and understand cypher query language with the help of Neo4j AurDB database and instances.
