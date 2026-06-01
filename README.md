@@ -13,9 +13,13 @@ This repository contains implementations of Generative AI concepts and workflows
 - Good knowledge about Python programming language
 - Enthusiasm of learning Generative AI Terminologies
 
+---
+
 ## 📐 Setup
 
 For most of the Generative AI libraries to work, make sure you create a virtual environment with python version of `3.11.x` or `3.12.x`. To download the necessary libraries, a `requirements.txt` file is given in the repository so that it can be run without any hassle. Just write `pip install -r requirements.txt` and thew libraries will be installed inside the virtual environment!
+
+---
 
 ## 📂 Repository Structure
 
