@@ -23,6 +23,10 @@ For most of the Generative AI libraries to work, make sure you create a virtual 
 
 ## 📂 Repository Structure
 
+<p align="center">
+  <img width="675" height="127" alt="image" src="https://github.com/user-attachments/assets/78bbccab-5259-46a0-a7fc-a277cfca5b4f" />
+</p>
+
 ### 1) Langchain
 
 The langchain framework in this repository is split into two primary segments to demonstrate the transition from legacy LangChain syntax to the modern ecosystem. These resources are from Udemy's [Complete Generative AI Course With Langchain and Huggingface](https://www.udemy.com/course/complete-generative-ai-course-with-langchain-and-huggingface/learn/lecture/44782435?start=150#overview) course.
@@ -46,6 +50,10 @@ The langchain framework in this repository is split into two primary segments to
   - **LangGraph:** Implementation of RAGs and Chatbots using `LangGraph`, and build graphs using `StateGraph()` class, wherein you can add nodes, edges and tools altogether. 
 
 ---
+
+<p align="center">
+  <img width="410" height="123" alt="image" src="https://github.com/user-attachments/assets/42e5c557-20b5-4c8a-9d7f-ef7df5cbb1d7" />
+</p>
 
 ### 2) Google Gemini
 
