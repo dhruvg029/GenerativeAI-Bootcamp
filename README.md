@@ -43,7 +43,7 @@ The langchain framework in this repository is split into two primary segments to
   - **Hybrid Search:** A simple implementation of Hybrid Search is covered using Langchain and `Pinecone` database, and `PineconeHybridSearchRetriever`.
   - **Graph Databases:** Where Knowledge graph is applied with the help of different tools such as `Neo4jGraph`, created chains with the help of `GraphCypherQAChain` and understand cypher query language with the help of Neo4j AurDB database and instances.
   - **Fine Tuning LLMs:** A simple notebook to demonstrate fine tuning using `LORA`, `QLORA` and `Quantization` methods is created, and `Lamini API` is used to get deep dive knowledge. ]
-  - **LangGraph:** Implementation of RAGs and Chatbots using `LangGraph`, and build graphs using `StateGraph()` class. 
+  - **LangGraph:** Implementation of RAGs and Chatbots using `LangGraph`, and build graphs using `StateGraph()` class, wherein you can add nodes, edges and tools altogether. 
 
 ---
 
