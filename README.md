@@ -52,4 +52,4 @@ The langchain framework in this repository is split into two primary segments to
 This part consists of different projects created with the help of Gemini open source models. The idea is to use them using the `google.generativeai` library, and configure using the `GOOGLE_API_KEY`. These resources are from Udemy's [Building Gen AI App 12+ Hands-on Projects with Gemini Pro](https://www.udemy.com/course/building-gen-ai-app-end-to-end-projects-with-gemini-pro) course.
 
 - **LIM-LLM Application:** Simple streamlit applications using Gemini models such as `Gemini-3.5-Flash` and `Gemini-2.5-Flash` to chat with the LLM, or analyse images with LIM.
-- **Conversational Chatbot:** Application to chat with an LLM, and save chat history simultaneously using `Gemini-2.5-flash` model. 
+- **Conversational Chatbot:** A chatbot application to chat with an open source LLM, and save chat history simultaneously using `Gemini-2.5-flash` model. 
