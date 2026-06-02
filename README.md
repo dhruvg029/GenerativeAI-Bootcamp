@@ -1,33 +1,42 @@
 # 🧠 Generative AI Repertoire
+*A curated ledger of Generative AI concepts, frameworks, and production-ready workflows.*
 
-<p align="center">
-  <img width="920" height="400" alt="image" src="https://github.com/user-attachments/assets/fd6eb936-8eb5-47a7-a079-261af01aee63" />
-</p>
+![Hero Banner](https://github.com/user-attachments/assets/fd6eb936-8eb5-47a7-a079-261af01aee63)
 
-This repository contains implementations of Generative AI concepts and workflows, following courses by [Krish Naik](https://www.krishnaik.in/) on Udemy. It serves as a personal learning ledger and reference guide, and it will be updated continuously as new tools and frameworks emerge. It also consists of recent developments and changes to the Langchain framework, and the code which are in the courses and here, may vary. **Feel free to star it if you find it useful!** ⭐
+<div align="center">
 
----
+[![Python Version](https://img.shields.io/badge/Python-3.11%20%7C%203.12-blue?style=flat-square&logo=python)](https://www.python.org/)
+[![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square)](#)
 
-## 🪡 Requirements
+</div>
 
-- Good knowledge about Python programming language
-- Enthusiasm of learning Generative AI Terminologies
-
----
-
-## 📐 Setup
-
-For most of the Generative AI libraries to work, make sure you create a virtual environment with python version of `3.11.x` or `3.12.x`. To download the necessary libraries, a `requirements.txt` file is given in the repository so that it can be run without any hassle. Just write `pip install -r requirements.txt` and thew libraries will be installed inside the virtual environment!
+**Overview:** This repository contains implementations of Generative AI concepts and workflows, following courses by [Krish Naik](https://www.krishnaik.in/) on Udemy. It serves as a personal learning ledger and reference guide, and it will be updated continuously as new tools and frameworks emerge. It also consists of recent developments and changes to the Langchain framework, and the code which are in the courses and here, may vary. **Feel free to star it if you find it useful!** ⭐ 
 
 ---
+
+## ⚙️ Requirements & Setup
+
+To explore these projects, you need a solid understanding of Python and an enthusiasm for Generative AI terminology. 
+
+**Environment Setup:**
+It is highly recommended to use an isolated virtual environment.
+
+```bash
+## Clone the repository
+git clone "https://github.com/your-username/GenerativeAI-Bootcamp.git"
+cd GenerativeAI-Bootcamp
+
+## Create and activate a virtual environment (Python 3.11.x or 3.12.x)
+conda create -n venv python=3.11.x
+conda activate venv
+
+## Install the dependencies
+pip install -r requirements.txt
+```
 
 ## 📂 Repository Structure
 
-<p align="center">
-  <img width="675" height="127" alt="image" src="https://github.com/user-attachments/assets/78bbccab-5259-46a0-a7fc-a277cfca5b4f" />
-</p>
-
-### 1) Langchain
+### 🦜 1) Langchain
 
 The langchain framework in this repository is split into two primary segments to demonstrate the transition from legacy LangChain syntax to the modern ecosystem. These resources are from Udemy's [Complete Generative AI Course With Langchain and Huggingface](https://www.udemy.com/course/complete-generative-ai-course-with-langchain-and-huggingface/learn/lecture/44782435?start=150#overview) course.
 
@@ -51,11 +60,7 @@ The langchain framework in this repository is split into two primary segments to
 
 ---
 
-<p align="center">
-  <img width="410" height="123" alt="image" src="https://github.com/user-attachments/assets/42e5c557-20b5-4c8a-9d7f-ef7df5cbb1d7" />
-</p>
-
-### 2) Google Gemini
+### ✨ 2) Google Gemini
 
 This part consists of different projects created with the help of Gemini open source models. The idea is to use them using the `google.generativeai` library, and configure using the `GOOGLE_API_KEY`. These resources are from Udemy's [Building Gen AI App 12+ Hands-on Projects with Gemini Pro](https://www.udemy.com/course/building-gen-ai-app-end-to-end-projects-with-gemini-pro) course.
 
