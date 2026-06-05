@@ -64,6 +64,18 @@ The langchain framework in this repository is split into two primary segments to
 
 This part consists of different projects created with the help of Gemini open source models. The idea is to use them using the `google.generativeai` library, and configure using the `GOOGLE_API_KEY`. These resources are from Udemy's [Building Gen AI App 12+ Hands-on Projects with Gemini Pro](https://www.udemy.com/course/building-gen-ai-app-end-to-end-projects-with-gemini-pro) course.
 
+| 🚀 Project | 📝 Description |
+| :--- | :--- |
+| **🤖 LIM-LLM Application** | Streamlit apps using `Gemini-3.5-Flash` and `Gemini-2.5-Flash` for text and image chat. |
+| **💬 Conversational Chatbot** | Chatbot application that interacts with an open-source LLM and saves history using `Gemini-2.5-Flash`. |
+| **🧾 Invoice Extractor** | Application to extract data from invoices and answer specific queries using Gemini. |
+| **📚 Multiple PDF Chatbot** | System to upload multiple PDFs and query them seamlessly using `FAISS` and Gemini models. |
+| **🔍 Document QnA** | Simple `RAG` application for document-based question answering using the Gemini model. |
+| **🗄️ Text-to-SQL-Querying** | Interface utilizing `sqlite3` and Gemini to interact with an SQL database and display query outputs. |
+| **📄 Resume ATS System** | Tool to analyze uploaded resumes against job descriptions and provide ATS-compliant feedback. |
+| **🥗 Calorie Calculator** | Gemini-powered application to estimate calories from uploaded food images for diet tracking. |
+| **▶️ YT Transcript Summarizer** | Application designed to generate concise summaries of YouTube video transcripts. |
+
 - **LIM-LLM Application:** Simple streamlit applications using Gemini models such as `Gemini-3.5-Flash` and `Gemini-2.5-Flash` to chat with the LLM, or analyse images with LIM.
 - **Conversational Chatbot:** A chatbot application to chat with an open source LLM, and save chat history simultaneously using `Gemini-2.5-flash` model.
 - **Invoice Extractor:** An application to extract data from invoices and asking LLM the questions the questions to be answered using Gemini.
