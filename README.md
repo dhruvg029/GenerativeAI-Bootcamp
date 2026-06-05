@@ -43,7 +43,7 @@ The langchain framework in this repository is split into two primary segments to
 #### 🧱 [Langchain-V1](https://github.com/dhruvg029/GenerativeAI-Bootcamp/tree/main/1-Langchain-V1): Foundational Concepts
 Legacy implementations and foundational concepts of Langchain including basic RAG concepts, retrievers, LCEL, and chatbots from scratch.
 
-| <div align="center">📂 Concept<img width="175"/></div> | <div align="center">📝 Description<img width="600"/></div> |
+| <div align="center">📂 Concept<img width="175" height="1"/></div> | <div align="center">📝 Description<img width="600" height="1"/></div> |
 | :--- | :--- |
 | **📖 RAG Introduction** | Step-by-step implementation of RAG from data ingestion to vector stores. |
 | **🔗 LCEL Architecture** | Easily connect components to build complex AI applications. <br><sub>*Tech:* <kbd>Prompts</kbd> <kbd>Language Models</kbd> <kbd>Output Parsers</kbd></sub> |
@@ -55,7 +55,7 @@ Legacy implementations and foundational concepts of Langchain including basic RA
 #### 🚀 [Langchain-V2](https://github.com/dhruvg029/GenerativeAI-Bootcamp/tree/main/2-Langchain-V2): Modern & Production-Ready
 Modern LangChain architecture, production-ready agents, Streamlit deployments, and advanced projects using GROQ and OLLAMA.
 
-| <div align="center">⚡ Project<img width="175"/></div> | <div align="center">💡 Description<img width="600"/></div> |
+| <div align="center">⚡ Project<img width="175" height="1"/></div> | <div align="center">💡 Description<img width="600" height="1"/></div> |
 | :--- | :--- |
 | **🤖 QnA Chatbots** | Conversational RAG, Document Search, and SQL-based chatbots. <br><sub>*Tech:* <kbd>Agents</kbd> <kbd>SQL Toolkit</kbd></sub> |
 | **🔍 LLM Search Engine** | Agentic lookup for live web information instead of LLM guessing. <br><sub>*Tech:* <kbd>Arxiv</kbd> <kbd>Wikipedia</kbd> <kbd>DuckDuckGo</kbd></sub> |
@@ -75,7 +75,7 @@ Modern LangChain architecture, production-ready agents, Streamlit deployments, a
 
 This part consists of different projects created with the help of Gemini open source models. The idea is to use them using the `google.generativeai` library, and configure using the `GOOGLE_API_KEY`. These resources are from Udemy's [Building Gen AI App 12+ Hands-on Projects with Gemini Pro](https://www.udemy.com/course/building-gen-ai-app-end-to-end-projects-with-gemini-pro) course.
 
-| <div align="center">🚀 Project<img width="175"/></div> | <div align="center">📝 Description<img width="600"/></div> |
+| <div align="center">🚀 Project<img width="175" height="1"/></div> | <div align="center">📝 Description<img width="600" height="1"/></div> |
 | :--- | :--- |
 | **🤖 LIM-LLM Application** | Streamlit apps using Gemini flash models for text and image chat. |
 | **💬 Conversational Chatbot** | Chatbot application that interacts with an LLM with history using Gemini. |
