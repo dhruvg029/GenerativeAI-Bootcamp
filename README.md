@@ -68,12 +68,12 @@ This part consists of different projects created with the help of Gemini open so
 | :--- | :--- |
 | **🤖 LIM-LLM Application** | Streamlit apps using Gemini flash models for text and image chat. |
 | **💬 Conversational Chatbot** | Chatbot application that interacts with an LLM with history using Gemini. |
-| **🧾 Invoice Extractor** | Application to extract data from invoices and answer specific queries using Gemini. |
+| **🧾 Invoice Extractor** | App to extract data from invoices and answer specific queries. |
 | **📚 Multiple PDF Chatbot** | Upload multiple PDFs and query seamlessly using `FAISS` and Gemini. |
 | **🔍 Document QnA** | Simple `RAG` application for document-based QnA using the Gemini model. |
 | **🗄️ Text-to-SQL-Querying** | Utilizes `sqlite3` to interact with an SQL database and display query outputs. |
 | **📄 Resume ATS System** | Analyzes resumes against job descriptions and provide ATS-compliant feedback. |
 | **🥗 Calorie Calculator** | An application to estimate calories from uploaded food images for diet tracking. |
-| **▶️ YT Transcript Summarizer** | Generate concise summaries of YouTube video transcripts using Gemini. |
+| **▶️ Transcript Summarizer** | Generate concise summaries of YouTube video transcripts using Gemini. |
 
 ---
