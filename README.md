@@ -40,23 +40,34 @@ pip install -r requirements.txt
 
 The langchain framework in this repository is split into two primary segments to demonstrate the transition from legacy LangChain syntax to the modern ecosystem. These resources are from Udemy's [Complete Generative AI Course With Langchain and Huggingface](https://www.udemy.com/course/complete-generative-ai-course-with-langchain-and-huggingface/learn/lecture/44782435?start=150#overview) course.
 
-- [Langchain-V1:](https://github.com/dhruvg029/GenerativeAI-Bootcamp/tree/main/1-Langchain-V1) Legacy implementations and foundational concepts of Langchain which includes basic RAG concepts, retreivers, LCEL and a basic chatbot implementation from scratch.
-  - **Introduction:** A simple step by step implementation of a RAG is implemented. From `Data Ingestion` to create `vector stores`, this folder consists of practical examples to illustrate the theory.
-  - **LangChain Expression Language:** It allows to easily connect and combine different AI components (like `prompts, language models, tools, and output parsers`) to build complex AI applications.
-  - To save history of messages, notebook has been implemented with the usage of `RunnableWithMessageHistory`, `SystemMessage`, `HumanMessage` etc.
-  - Vector stores like `Chroma` and `FAISS` are designed to support retrieval of data from (vector) databases and other sources for integration with LLM workflows.
-- [Langchain-V2;](https://github.com/dhruvg029/GenerativeAI-Bootcamp/tree/main/2-Langchain-V2) Modern LangChain architecture and production-ready tools such as tools, agents, wrappers, and deployment using streamlit cloud, and some advanced projects with the help of GROQ and OLLAMA models. 
-  - **QnA Chatbots:** Some basic chatbots such as a `Conversational RAG`, `Document Search RAG`, and `Chatbot with SQL Toolkit` have been implemented using tools, agents and langchain framework.
-  - **LLM Search Engine:** This simple generative ai helps to look up information from websites like `Arxiv`, `wikipedia` or `duck duck go`, instead of just guessing. It takes help of tools and agents to find the information and provide it to the user.
-  - **Text Summarization:** A streamlit application to perform text summarization on YT or Website URL. Various inbuilt summarization tools such as `load_summarize_chain()`, `LLMchain()`, and `PromptTemplate()` have been used for experimenting purposes.
-  - **MathsGPT:** A streamlit application to perform math calculations using `LLMMathChain()` and `StreamlitCallbackHandler()` functions.
-  - A simple project to perform integration of Huggingface with Langchain, using `HuggingFaceEndpoint()`. The difference is to provide the repo id with the token to invoke the LLM.
-  - A simple **PDF-Query RAG** to store the data into AstraDB (Cassandra) using `cassIO`, `OllamaEmbeddings` and AstraDB credentials such as `ASTRA_DB_APPLICATION_TOKEN` and `ASTRA_DB_ID`.
-  - A CodeLlama assistant implementation using `Gradio` library and rest API.
-  - **Hybrid Search:** A simple implementation of Hybrid Search is covered using Langchain and `Pinecone` database, and `PineconeHybridSearchRetriever`.
-  - **Graph Databases:** Where Knowledge graph is applied with the help of different tools such as `Neo4jGraph`, created chains with the help of `GraphCypherQAChain` and understand cypher query language with the help of Neo4j AurDB database and instances.
-  - **Fine Tuning LLMs:** A simple notebook to demonstrate fine tuning using `LORA`, `QLORA` and `Quantization` methods is created, and `Lamini API` is used to get deep dive knowledge. ]
-  - **LangGraph:** Implementation of RAGs and Chatbots using `LangGraph`, and build graphs using `StateGraph()` class, wherein you can add nodes, edges and tools altogether. 
+#### 🧱 [Langchain-V1](https://github.com/dhruvg029/GenerativeAI-Bootcamp/tree/main/1-Langchain-V1): Foundational Concepts
+Legacy implementations and foundational concepts of Langchain including basic RAG concepts, retrievers, LCEL, and chatbots from scratch.
+
+| <div align="center">📂 Concept</div> | <div align="center">📝 Description</div> |
+| :--- | :--- |
+| **📖 RAG Introduction** | Step-by-step implementation of RAG from data ingestion to vector stores. |
+| **🔗 LCEL Architecture** | Easily connect components to build complex AI applications. <br><sub>*Tech:* <kbd>Prompts</kbd> <kbd>Language Models</kbd> <kbd>Output Parsers</kbd></sub> |
+| **💬 Message History** | Save and manage conversational context dynamically. <br><sub>*Tech:* <kbd>RunnableWithMessageHistory</kbd> <kbd>SystemMessage</kbd></sub> |
+| **🗄️ Vector Stores** | Integrate and retrieve data from databases for LLM workflows. <br><sub>*Tech:* <kbd>Chroma</kbd> <kbd>FAISS</kbd></sub> |
+
+<br>
+
+#### 🚀 [Langchain-V2](https://github.com/dhruvg029/GenerativeAI-Bootcamp/tree/main/2-Langchain-V2): Modern & Production-Ready
+Modern LangChain architecture, production-ready agents, Streamlit deployments, and advanced projects using GROQ and OLLAMA.
+
+| <div align="center">⚡ Project</div> | <div align="center">💡 Description</div> |
+| :--- | :--- |
+| **🤖 QnA Chatbots** | Conversational RAG, Document Search, and SQL-based chatbots. <br><sub>*Tech:* <kbd>Agents</kbd> <kbd>SQL Toolkit</kbd></sub> |
+| **🔍 LLM Search Engine** | Agentic lookup for live web information instead of LLM guessing. <br><sub>*Tech:* <kbd>Arxiv</kbd> <kbd>Wikipedia</kbd> <kbd>DuckDuckGo</kbd></sub> |
+| **📝 Text Summarization** | Streamlit app to summarize YouTube videos or Website URLs. <br><sub>*Tech:* <kbd>load_summarize_chain</kbd> <kbd>PromptTemplate</kbd></sub> |
+| **🧮 MathsGPT** | Application to perform complex mathematical calculations accurately. <br><sub>*Tech:* <kbd>LLMMathChain</kbd> <kbd>StreamlitCallbackHandler</kbd></sub> |
+| **🤗 Huggingface Integration**| Invoke open-source models directly using repo IDs and tokens. <br><sub>*Tech:* <kbd>HuggingFaceEndpoint</kbd></sub> |
+| **📚 PDF-Query RAG** | Advanced document storage and querying using Cassandra. <br><sub>*Tech:* <kbd>AstraDB</kbd> <kbd>cassIO</kbd> <kbd>OllamaEmbeddings</kbd></sub> |
+| **💻 CodeLlama Assistant** | Interactive coding assistant interface powered by REST APIs. <br><sub>*Tech:* <kbd>Gradio</kbd></sub> |
+| **⚖️ Hybrid Search** | Combines keyword and vector search for better retrieval accuracy. <br><sub>*Tech:* <kbd>Pinecone</kbd> <kbd>HybridSearchRetriever</kbd></sub> |
+| **🕸️ Graph Databases** | Knowledge graph creation and querying using Cypher language. <br><sub>*Tech:* <kbd>Neo4j</kbd> <kbd>GraphCypherQAChain</kbd></sub> |
+| **⚙️ Fine Tuning LLMs** | Deep dive into training and optimizing model weights. <br><sub>*Tech:* <kbd>LoRA</kbd> <kbd>QLoRA</kbd> <kbd>Lamini API</kbd></sub> |
+| **🔄 LangGraph** | State machine graphs to build robust, multi-agent AI systems. <br><sub>*Tech:* <kbd>StateGraph</kbd> <kbd>Nodes & Edges</kbd></sub> |
 
 ---
 
