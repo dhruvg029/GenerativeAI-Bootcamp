@@ -66,24 +66,14 @@ This part consists of different projects created with the help of Gemini open so
 
 | 🚀 Project | 📝 Description |
 | :--- | :--- |
-| **🤖 LIM-LLM Application** | Streamlit apps using `Gemini-3.5-Flash` and `Gemini-2.5-Flash` for text and image chat. |
-| **💬 Conversational Chatbot** | Chatbot application that interacts with an open-source LLM and saves history using `Gemini-2.5-Flash`. |
+| **🤖 LIM-LLM Application** | Streamlit apps using Gemini flash models for text and image chat. |
+| **💬 Conversational Chatbot** | Chatbot application that interacts with an LLM with history using `Gemini-2.5-Flash`. |
 | **🧾 Invoice Extractor** | Application to extract data from invoices and answer specific queries using Gemini. |
-| **📚 Multiple PDF Chatbot** | System to upload multiple PDFs and query them seamlessly using `FAISS` and Gemini models. |
+| **📚 Multiple PDF Chatbot** | System to upload multiple PDFs and query them seamlessly using `FAISS` and Gemini. |
 | **🔍 Document QnA** | Simple `RAG` application for document-based question answering using the Gemini model. |
-| **🗄️ Text-to-SQL-Querying** | Interface utilizing `sqlite3` and Gemini to interact with an SQL database and display query outputs. |
+| **🗄️ Text-to-SQL-Querying** | Utilizes `sqlite3` and Gemini to interact with an SQL database and display query outputs. |
 | **📄 Resume ATS System** | Tool to analyze uploaded resumes against job descriptions and provide ATS-compliant feedback. |
 | **🥗 Calorie Calculator** | Gemini-powered application to estimate calories from uploaded food images for diet tracking. |
 | **▶️ YT Transcript Summarizer** | Application designed to generate concise summaries of YouTube video transcripts. |
-
-- **LIM-LLM Application:** Simple streamlit applications using Gemini models such as `Gemini-3.5-Flash` and `Gemini-2.5-Flash` to chat with the LLM, or analyse images with LIM.
-- **Conversational Chatbot:** A chatbot application to chat with an open source LLM, and save chat history simultaneously using `Gemini-2.5-flash` model.
-- **Invoice Extractor:** An application to extract data from invoices and asking LLM the questions the questions to be answered using Gemini.
-- **Multiple PDF Chatbot:** Upload multiple PDFs and ask questions from Gemini models using FAISS without any issues.
-- **Document QnA:** A simple RAG application to ask questions from the document using Gemini model.
-- **Text-to-SQL-Querying:** Using sqlite3 and Gemini models to interact with an SQL database and displaying outputs in the form of SQL queries.
-- **Resume ATS System:** A project to upload the resume and give feedback by satisfying the ATS requirements, with the help of the job descriptions.
-- **Calorie Calculator:** A gemini model application for calculating calories from the food images you can upload, to keep track of the diet!
-- **YouTube Transcript Summarizer:** To provide a summary of the transcripts from a YouTube video.
 
 ---
