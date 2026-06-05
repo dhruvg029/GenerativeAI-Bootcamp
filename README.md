@@ -83,8 +83,8 @@ This part consists of different projects created with the help of Gemini open so
 | **📚 Multiple PDF Chatbot** | Upload multiple PDFs and query seamlessly using <kbd>FAISS</kbd> and Gemini. |
 | **🔍 Document QnA** | Simple <kbd>RAG</kbd> application for document-based QnA using the Gemini model. |
 | **🗄️ Text-to-SQL-Querying** | Utilizes <kbd>sqlite3</kbd> to interact with an SQL database and display query outputs. |
-| **📄 Resume ATS System** | Analyzes resumes against job descriptions and provide ATS-compliant feedback. |
-| **🥗 Calorie Calculator** | An application to estimate calories from uploaded food images for diet tracking. |
+| **📄 Resume ATS System** | Analyzes resumes against JDs and provide ATS-compliant feedback. |
+| **🥗 Calorie Calculator** | Estimate calories from uploaded food images for diet tracking. |
 | **▶️ Transcript Summarizer**| Generate concise summaries of YouTube video transcripts using Gemini. |
 
 ---
