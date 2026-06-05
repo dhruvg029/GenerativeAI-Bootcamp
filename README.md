@@ -40,8 +40,7 @@ pip install -r requirements.txt
 
 The langchain framework in this repository is split into two primary segments to demonstrate the transition from legacy LangChain syntax to the modern ecosystem. These resources are from Udemy's [Complete Generative AI Course With Langchain and Huggingface](https://www.udemy.com/course/complete-generative-ai-course-with-langchain-and-huggingface/learn/lecture/44782435?start=150#overview) course.
 
-#### 🧱 [Langchain-V1](https://github.com/dhruvg029/GenerativeAI-Bootcamp/tree/main/1-Langchain-V1): Foundational Concepts
-Legacy implementations and foundational concepts of Langchain including basic RAG concepts, retrievers, LCEL, and chatbots from scratch.
+🧱 **[Langchain-V1](https://github.com/dhruvg029/GenerativeAI-Bootcamp/tree/main/1-Langchain-V1):** Foundational Concepts; Legacy implementations and foundational concepts of Langchain including basic RAG concepts, retrievers, LCEL, and chatbots from scratch.
 
 | <div align="center">📂 Concept<img width="175" height="1"/></div> | <div align="center">📝 Description<img width="600" height="1"/></div> |
 | :--- | :--- |
@@ -52,8 +51,7 @@ Legacy implementations and foundational concepts of Langchain including basic RA
 
 <br>
 
-#### 🚀 [Langchain-V2](https://github.com/dhruvg029/GenerativeAI-Bootcamp/tree/main/2-Langchain-V2): Modern & Production-Ready
-Modern LangChain architecture, production-ready agents, Streamlit deployments, and advanced projects using GROQ and OLLAMA.
+🚀 **[Langchain-V2](https://github.com/dhruvg029/GenerativeAI-Bootcamp/tree/main/2-Langchain-V2):** Modern & Production-Ready; Modern LangChain architecture, production-ready agents, Streamlit deployments, and advanced projects using GROQ and OLLAMA.
 
 | <div align="center">⚡ Project<img width="175" height="1"/></div> | <div align="center">💡 Description<img width="600" height="1"/></div> |
 | :--- | :--- |
