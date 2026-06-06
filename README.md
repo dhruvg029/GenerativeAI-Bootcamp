@@ -62,6 +62,7 @@ The langchain framework in this repository is split into two primary segments to
 | **🤗 Huggingface Integration**| Invoke open-source models directly using repo IDs and tokens. <br><sub>*Tech:* <kbd>HuggingFaceEndpoint</kbd></sub> |
 | **📚 PDF-Query RAG** | Advanced document storage and querying using Cassandra. <br><sub>*Tech:* <kbd>AstraDB</kbd> <kbd>cassIO</kbd> <kbd>OllamaEmbeddings</kbd></sub> |
 | **💻 CodeLlama Assistant** | Interactive coding assistant interface powered by REST APIs. <br><sub>*Tech:* <kbd>Gradio</kbd></sub> |
+| **🎥 YT video to Blog** | Conversion of YT transcripts to Blog Structure using CrewAI. <br><sub>*Tech:* <kbd>CrewAI</kbd> <kbd>YouTubeTranscriptAPI</kbd> </sub>
 | **⚖️ Hybrid Search** | Combines keyword and vector search for better retrieval accuracy. <br><sub>*Tech:* <kbd>Pinecone</kbd> <kbd>HybridSearchRetriever</kbd></sub> |
 | **🕸️ Graph Databases** | Knowledge graph creation and querying using Cypher language. <br><sub>*Tech:* <kbd>Neo4j</kbd> <kbd>GraphCypherQAChain</kbd></sub> |
 | **⚙️ Fine Tuning LLMs** | Deep dive into training and optimizing model weights. <br><sub>*Tech:* <kbd>LoRA</kbd> <kbd>QLoRA</kbd> <kbd>Lamini API</kbd></sub> |
