@@ -19,8 +19,9 @@ This repository contains implementations of Generative AI concepts and workflows
 To explore these projects, you need a solid understanding of Python and an enthusiasm for Generative AI terminology. 
 
 **Environment Setup:**
-It is highly recommended to use an isolated virtual environment.
+It is highly recommended to use an isolated virtual environment. You can use `conda`, by downloading [Anaconda Navigator](https://www.anaconda.com/download) but recently `uv` has been in great demand as well. You can install uv package on your local desktop using the command `pip install uv` and you are all set!
 
+**Using Conda:**
 ```bash
 ## Clone the repository
 git clone "https://github.com/your-username/GenerativeAI-Bootcamp.git"
@@ -32,6 +33,20 @@ conda activate venv
 
 ## Install the dependencies
 pip install -r requirements.txt
+```
+
+**Using uv:**
+```bash
+## Clone the repository
+git clone "https://github.com/your-username/GenerativeAI-Bootcamp.git"
+cd GenerativeAI-Bootcamp
+
+## Create and activate a virtual environment (Python 3.11.x or 3.12.x)
+uv venv
+.venv\Scripts\activate
+
+## Install the dependencies
+uv add -r requirements.txt
 ```
 
 ## 📂 Repository Structure
