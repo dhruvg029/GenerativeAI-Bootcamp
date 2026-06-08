@@ -19,7 +19,7 @@ This repository contains implementations of Generative AI concepts and workflows
 To explore these projects, you need a solid understanding of Python and an enthusiasm for Generative AI terminology. 
 
 **Environment Setup:**
-It is highly recommended to use an isolated virtual environment. You can use conda by downloading [Anaconda Navigator](https://www.anaconda.com/download) but recently `uv` has been in great demand as well. You can install uv package on your local desktop using the command `pip install uv` and you are all set!
+It is highly recommended to use an isolated virtual environment. You can use conda through installation of [Anaconda Navigator](https://www.anaconda.com/download) but recently `uv` has been in great demand as well. You can install uv package on your local desktop using the command `pip install uv` and you are all set!
 
 **Using Conda:**
 ```bash
