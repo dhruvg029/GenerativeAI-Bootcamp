@@ -102,3 +102,5 @@ This part consists of different projects created with the help of Gemini open so
 | **▶️ Transcript Summarizer**| Generate concise summaries of YouTube video transcripts using Gemini. |
 
 ---
+
+### 💹 3) Retrieval Augmented Generation
