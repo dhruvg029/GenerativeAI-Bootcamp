@@ -1,0 +1,17 @@
+langchain
+langchain-groq
+langchain-community
+langchain-core
+langchain-openai
+langchain-ollama
+langchain-google-genai
+langchain-huggingface
+faiss-cpu
+pypdf
+python-dotenv
+ipykernel
+tiktoken
+chromadb
+sentence-transformers
+langchain-text-splitters
+pymupdf
