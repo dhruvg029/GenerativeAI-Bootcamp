@@ -68,7 +68,7 @@ The langchain framework in this repository is split into two primary segments to
 
 🚀 **[Langchain-V2](https://github.com/dhruvg029/GenerativeAI-Bootcamp/tree/main/2-Langchain-V2):** Modern & Production-Ready; Modern LangChain architecture, production-ready agents, Streamlit deployments, and advanced projects using GROQ and OLLAMA.
 
-| <div align="center">⚡ Project<img width="175" height="1"/></div> | <div align="center">💡 Description<img width="600" height="1"/></div> |
+| <div align="center">⚡Project / 📂 Concept<img width="175" height="1"/></div> | <div align="center">💡 Description<img width="600" height="1"/></div> |
 | :--- | :--- |
 | **🤖 QnA Chatbots** | Conversational RAG, Document Search, and SQL-based chatbots. <br><sub>*Tech:* <kbd>Agents</kbd> <kbd>SQL Toolkit</kbd></sub> |
 | **🔍 LLM Search Engine** | Agentic lookup for live web information instead of LLM guessing. <br><sub>*Tech:* <kbd>Arxiv</kbd> <kbd>Wikipedia</kbd> <kbd>DuckDuckGo</kbd></sub> |
@@ -104,3 +104,9 @@ This part consists of different projects created with the help of Gemini open so
 ---
 
 ### 💹 3) Retrieval Augmented Generation
+
+This part explores the concepts and projects related to Retrieval Augmented Generation (RAGs) from Udemy's [Ultimate RAG Bootcamp Using Langchain,LangGraph & Langsmith](https://www.udemy.com/course/ultimate-rag-bootcamp-using-langchainlanggraph-langsmith/) course by Krish Naik.
+
+| <div align="center">⚡Project / 📂 Concept<img width="175" height="1"/></div> | <div align="center">💡 Description<img width="600" height="1"/></div> |
+| :--- | :--- |
+| **📉 Data Ingestion & Parsing** | Revision of Text Splitters, different types of loaders w.r.t the data types. <br><sub>*Tech:* <kbd>langchain_text_splitters</kbd> <kbd>Document</kbd> <kbd>document_loaders</kbd></sub> |
