@@ -109,4 +109,4 @@ This part explores the concepts and projects related to Retrieval Augmented Gene
 
 | <div align="center">⚡Project / 📂 Concept<img width="175" height="1"/></div> | <div align="center">💡 Description<img width="600" height="1"/></div> |
 | :--- | :--- |
-| **📉 Data Ingestion & Parsing** | Revision of Text Splitters, different types of loaders w.r.t the data types. <br><sub>*Tech:* <kbd>langchain_text_splitters</kbd> <kbd>Document</kbd> <kbd>document_loaders</kbd></sub> |
+| **📉 Data Ingestion & Parsing** | Revision of Text Splitters, different types of loaders w.r.t the data types. <br><sub>*Tech:* <kbd>langchain_text_splitters</kbd> <kbd>Document</kbd> <kbd>document_loaders</kbd> <kbd>unstructured</kbd> </sub> |
