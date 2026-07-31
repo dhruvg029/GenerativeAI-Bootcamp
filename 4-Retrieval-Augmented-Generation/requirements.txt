@@ -21,3 +21,4 @@ docx2txt
 docx
 exceptions
 python-docx
+openpyxl
