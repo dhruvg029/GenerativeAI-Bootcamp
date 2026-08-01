@@ -22,3 +22,4 @@ docx
 exceptions
 python-docx
 openpyxl
+jq
