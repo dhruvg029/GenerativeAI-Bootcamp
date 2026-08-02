@@ -22,4 +22,5 @@ docx
 exceptions
 python-docx
 openpyxl
+matplotlib
 jq
