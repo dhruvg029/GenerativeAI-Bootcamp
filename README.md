@@ -112,3 +112,4 @@ This part explores the concepts and projects related to Retrieval Augmented Gene
 | **📉 Data Ingestion & Parsing** | Revision of Text Splitters, different types of loaders w.r.t the data types. <br><sub>*Tech:* <kbd>langchain_text_splitters</kbd> <kbd>Document</kbd> <kbd>document_loaders</kbd> <kbd>unstructured</kbd> </sub> |
 | **🪡 Data Embeddings** | Different types of data embedding techniques revisited. <br><sub>*Tech:* <kbd>HuggingFaceEmbeddings</kbd> <kbd>OpenAIEmbeddings</kbd> <kbd>sentence_transformers</kbd> </sub>|
 | **🫙 Vector Stores** | A quick overview of different vector stores to store vectors. <br><sub>*Tech:* <kbd>Chroma</kbd> <kbd>FAISS</kbd> <kbd>InMemoryVectorStore</kbd> <kbd>AstraDB</kbd> <kbd>Pinecone</kbd> </sub>|
+| **🔔 Advanced Chunking** | An introduction to Semantic Chunking technique in RAG. <br><sub>*Tech:* <kbd>SemanticChunker</kbd> <kbd>FAISS</kbd> <kbd>langchain_experimental</kbd> </sub>|
