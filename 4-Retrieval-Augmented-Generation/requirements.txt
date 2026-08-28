@@ -5,6 +5,7 @@ langchain-core
 langchain-openai
 langchain-ollama
 langchain-google-genai
+langchain_experimental
 langchain-huggingface
 faiss-cpu
 pypdf
@@ -23,4 +24,5 @@ exceptions
 python-docx
 openpyxl
 matplotlib
+rank_bm25
 jq
