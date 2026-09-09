@@ -114,3 +114,4 @@ This part explores the concepts and projects related to Retrieval Augmented Gene
 | **🫙 Vector Stores** | A quick overview of different vector stores to store vectors. <br><sub>*Tech:* <kbd>Chroma</kbd> <kbd>FAISS</kbd> <kbd>InMemoryVectorStore</kbd> <kbd>AstraDB</kbd> <kbd>Pinecone</kbd> </sub>|
 | **🔔 Advanced Chunking** | An introduction to Semantic Chunking technique in RAG. <br><sub>*Tech:* <kbd>SemanticChunker</kbd> <kbd>FAISS</kbd> <kbd>langchain_experimental</kbd> </sub>|
 | **🤗 Hybrid Search** | Review of basic hybrid search technniques. <br><sub>*Tech:* <kbd>BM25Retriever</kbd> <kbd>EnsembleRetriever</kbd> <kbd>Re-Ranking</kbd> <kbd>MMR</kbd> </sub>|
+| **🎥 Query Enhancement** | Description of how to enhance user queries. <br><sub>*Tech:* <kbd>Query Enhancement</kbd> <kbd>Query Decomposition</kbd> <kbd>Re-Ranking</kbd> <kbd>MMR</kbd> </sub>|
