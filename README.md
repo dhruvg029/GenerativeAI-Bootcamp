@@ -116,4 +116,4 @@ This part explores the concepts and projects related to Retrieval Augmented Gene
 | **🤗 Hybrid Search** | Review of basic hybrid search technniques. <br><sub>*Tech:* <kbd>BM25Retriever</kbd> <kbd>EnsembleRetriever</kbd> <kbd>Re-Ranking</kbd> <kbd>MMR</kbd> </sub>|
 | **🎥 Query Enhancement** | Description of how to enhance user queries. <br><sub>*Tech:* <kbd>Query Enhancement</kbd> <kbd>Query Decomposition</kbd> <kbd>HypotheticalDocumentEmbedder</kbd>|
 | **⚡ RAG Types** | Covers different types of RAGs available. <br><sub>*Tech:* <kbd>Multimodal RAG</kbd>|
-| **📉 LangGraph** | Idea of creating stateful AI agents and multi-agent workflows. <br><sub>*Tech:* <kbd>langgraph</kbd> <kbd>StateGraph</kbd> <kbd>Annotated</kbd>|
+| **📉 LangGraph** | Idea of creating stateful AI agents and multi-agent workflows. <br><sub>*Tech:* <kbd>langgraph</kbd> <kbd>StateGraph</kbd> <kbd>Annotated</kbd> <kbd>dataclass</kbd> |
