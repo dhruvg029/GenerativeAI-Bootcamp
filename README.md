@@ -105,7 +105,7 @@ This part consists of different projects created with the help of Gemini open so
 
 ### 💹 3) Retrieval Augmented Generation
 
-This part explores the concepts and projects related to Retrieval Augmented Generation (RAGs) from Udemy's [Ultimate RAG Bootcamp Using Langchain,LangGraph & Langsmith](https://www.udemy.com/course/ultimate-rag-bootcamp-using-langchainlanggraph-langsmith/) course by Krish Naik.
+This part explores the concepts and projects related to Retrieval Augmented Generation (RAGs) from Udemy's [Ultimate RAG Bootcamp Using Langchain, LangGraph & Langsmith](https://www.udemy.com/course/ultimate-rag-bootcamp-using-langchainlanggraph-langsmith/) course by Krish Naik.
 
 | <div align="center">⚡Project / 📂 Concept<img width="175" height="1"/></div> | <div align="center">💡 Description<img width="600" height="1"/></div> |
 | :--- | :--- |
