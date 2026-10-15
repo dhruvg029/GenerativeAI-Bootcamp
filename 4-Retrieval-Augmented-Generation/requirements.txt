@@ -37,3 +37,5 @@ pageindex
 litellm
 fastapi
 soundfile
+pandas
+numpy
