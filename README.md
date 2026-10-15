@@ -119,4 +119,4 @@ This part explores the concepts and projects related to Retrieval Augmented Gene
 | **📉 LangGraph** | Idea of creating stateful AI agents and multi-agent workflows. <br><sub>*Tech:* <kbd>langgraph</kbd> <kbd>StateGraph</kbd> <kbd>dataclass</kbd> <kbd>pydantic</kbd> <kbd>bind_tools</kbd> <kbd>ReAct</kbd> <kbd>MemorySaver</kbd> |
 | **💂🏾 Guardrails** | Talks about different middleware techniques in detail. <br><sub>*Tech:* <kbd>PIIMiddleware</kbd> <kbd>HumanInTheLoopMiddleware</kbd> <kbd>AgentMiddleware</kbd> <kbd>AgentState</kbd> |
 | **🚪 Gateways** | Covers about LLM Gateways and examples. <br><sub>*Tech:* <kbd>litellm</kbd> <kbd>ChatLiteLLM</kbd> <kbd>completion</kbd> <kbd>completion_cost</kbd> <kbd>Router</kbd> |
-| **🫙 RAG Evaluation** | Discussed about evaluation of LLMs with Langsmith. <br><sub>*Tech:* <kbd>langsmith</kbd> <kbd>traceable</kbd> <kbd>Correctness</kbd> <kbd>Groundedness</kbd> |
+| **🫙 RAG Evaluation** | Discusses about evaluation of LLMs with Langsmith. <br><sub>*Tech:* <kbd>langsmith</kbd> <kbd>traceable</kbd> <kbd>Correctness</kbd> <kbd>Groundedness</kbd> |
