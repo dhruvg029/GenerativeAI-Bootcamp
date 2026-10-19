@@ -129,4 +129,4 @@ This sections gives an idea about the core concepts behind Agentic AI and how in
 
 | <div align="center">⚡Project / 📂 Concept<img width="175" height="1"/></div> | <div align="center">💡 Description<img width="600" height="1"/></div> |
 | :--- | :--- |
-| **🪡 Pydantic** | Gives an idea about the Pydantic data validation technique in detail. <br><sub>*Tech:* <kbd>BaseModelkbd> <kbd>dataclass</kbd> <kbd>pydantic</kbd> </sub>|
+| **🪡 Pydantic** | Gives an idea about the Pydantic data validation technique in detail. <br><sub>*Tech:* <kbd>BaseModel</kbd> <kbd>dataclass</kbd> <kbd>pydantic</kbd> </sub>|
