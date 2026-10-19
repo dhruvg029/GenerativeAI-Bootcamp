@@ -125,7 +125,7 @@ This part explores the concepts and projects related to Retrieval Augmented Gene
 
 ### 🩼 4) Agentic AI Workflows
 
-This sections gives an idea about the core concepts behind Agentic AI and how intelligent agents operate. It provides an overview on building autonomous, event-driven AI workflows with memory, reasoning, and tools. Resources through the Agentic AI course from Udemy's [Complete Agentic AI Bootcamp With Langgraph and Langchain](https://www.udemy.com/course/complete-agentic-ai-bootcamp-with-langgraph-and-langchain/?couponCode=MT261019G2) by Krish Naik. 
+This sections gives an idea about the core concepts behind Agentic AI and how intelligent agents operate. It provides an overview on building autonomous, event-driven AI workflows with memory, reasoning, and tools. Resources through the Udemy's [Complete Agentic AI Bootcamp With Langgraph and Langchain](https://www.udemy.com/course/complete-agentic-ai-bootcamp-with-langgraph-and-langchain/?couponCode=MT261019G2) course by Krish Naik. 
 
 | <div align="center">⚡Project / 📂 Concept<img width="175" height="1"/></div> | <div align="center">💡 Description<img width="600" height="1"/></div> |
 | :--- | :--- |
