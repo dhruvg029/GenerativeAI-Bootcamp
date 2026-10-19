@@ -120,3 +120,13 @@ This part explores the concepts and projects related to Retrieval Augmented Gene
 | **💂🏾 Guardrails** | Talks about different middleware techniques in detail. <br><sub>*Tech:* <kbd>PIIMiddleware</kbd> <kbd>HumanInTheLoopMiddleware</kbd> <kbd>AgentMiddleware</kbd> <kbd>AgentState</kbd> |
 | **🚪 Gateways** | Covers about LLM Gateways and examples. <br><sub>*Tech:* <kbd>litellm</kbd> <kbd>ChatLiteLLM</kbd> <kbd>completion</kbd> <kbd>completion_cost</kbd> <kbd>Router</kbd> |
 | **🫙 RAG Evaluation** | Discusses about evaluation of LLMs with Langsmith. <br><sub>*Tech:* <kbd>langsmith</kbd> <kbd>traceable</kbd> <kbd>Correctness</kbd> <kbd>Groundedness</kbd> |
+
+---
+
+### 🩼 4) Agentic AI Workflows
+
+This sections gives an idea about the core concepts behind Agentic AI and how intelligent agents operate. It provides an overview on building autonomous, event-driven AI workflows with memory, reasoning, and tools. Resources through the Agentic AI course from Udemy's [Complete Agentic AI Bootcamp With Langgraph and Langchain](https://www.udemy.com/course/complete-agentic-ai-bootcamp-with-langgraph-and-langchain/?couponCode=MT261019G2) by Krish Naik. Many AI concepts such as Langchain, Langgraph, RAGs, Gaudrails and Gateways are already covered in the previous courses and practical implementations. 
+
+| <div align="center">⚡Project / 📂 Concept<img width="175" height="1"/></div> | <div align="center">💡 Description<img width="600" height="1"/></div> |
+| :--- | :--- |
+| **🪡 Pydantic** | Gives an idea about the Pydantic data validation technique in detail. <br><sub>*Tech:* <kbd>BaseModelkbd> <kbd>dataclass</kbd> <kbd>pydantic</kbd> </sub>|
