@@ -130,4 +130,4 @@ This sections gives an idea about the core concepts behind Agentic AI and how in
 | <div align="center">⚡Project / 📂 Concept<img width="175" height="1"/></div> | <div align="center">💡 Description<img width="600" height="1"/></div> |
 | :--- | :--- |
 | **🦉 Pydantic** | Gives an idea about the Pydantic data validation technique in detail. <br><sub>*Tech:* <kbd>BaseModel</kbd> <kbd>dataclass</kbd> <kbd>pydantic</kbd> </sub>|
-| **⏳ Workflows** | A detailed overview of creating AI workflows using Langgraph. <br><sub>*Tech:* <kbd>Field</kbd> <kbd>StateGraph</kbd> <kbd>TypedDict</kbd> <kbd>with_structured_output</kbd> </sub>|
+| **⏳ Workflows** | A detailed overview of creating AI workflows using Langgraph. <br><sub>*Tech:* <kbd>Field</kbd> <kbd>StateGraph</kbd> <kbd>TypedDict</kbd> <kbd>with_structured_output</kbd> <kbd>llm_call_evaluator</kbd> </sub>|
