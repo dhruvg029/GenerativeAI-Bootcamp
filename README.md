@@ -131,3 +131,4 @@ This sections gives an idea about the core concepts behind Agentic AI and how in
 | :--- | :--- |
 | **🦉 Pydantic** | Gives an idea about the Pydantic data validation technique in detail. <br><sub>*Tech:* <kbd>BaseModel</kbd> <kbd>dataclass</kbd> <kbd>pydantic</kbd> </sub>|
 | **⏳ Workflows** | A detailed overview of creating AI workflows using Langgraph. <br><sub>*Tech:* <kbd>Field</kbd> <kbd>StateGraph</kbd> <kbd>TypedDict</kbd> <kbd>with_structured_output</kbd> <kbd>llm_call_evaluator</kbd> </sub>|
+| **👱🏾 Human in the Loop** | How to use "Human in the Loop" feature using Langgraph. <br><sub>*Tech:* <kbd>HumanMessage</kbd> <kbd>stream</kbd> <kbd>SystemMessage</kbd> <kbd>bind_tools</kbd> </sub>|
