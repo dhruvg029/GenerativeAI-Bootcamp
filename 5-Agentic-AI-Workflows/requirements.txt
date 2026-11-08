@@ -21,6 +21,7 @@ langchain-text-splitters
 langchain_experimental
 langgraph-cli[inmem]
 langgraph-supervisor
+tavily
 pymupdf
 ipywidgets
 unstructured
