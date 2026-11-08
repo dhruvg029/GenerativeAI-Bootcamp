@@ -133,4 +133,4 @@ This sections gives an idea about the core concepts behind Agentic AI and how in
 | **⏳ Workflows** | A detailed overview of creating AI workflows using Langgraph. <br><sub>*Tech:* <kbd>Field</kbd> <kbd>StateGraph</kbd> <kbd>TypedDict</kbd> <kbd>with_structured_output</kbd> <kbd>llm_call_evaluator</kbd> </sub>|
 | **👱🏾 Human in the Loop** | How to use "Human in the Loop" feature using Langgraph. <br><sub>*Tech:* <kbd>HumanMessage</kbd> <kbd>stream</kbd> <kbd>SystemMessage</kbd> <kbd>bind_tools</kbd> </sub>|
 | **🤖 Basic Chatbot project** | Implemented an Agentic Chatbot project using Langgraph and Streamlit. <br><sub>*Tech:* <kbd>streamlit</kbd> <kbd>GroqLLM</kbd> <kbd>StateGraph</kbd> <kbd>nodes</kbd> </sub>|
-| **🕸️ Web Chatbot project** | Implemented an Agentic Chatbot project with web functionaility using Langgraph. <br><sub>*Tech:* <kbd>streamlit</kbd> <kbd>GroqLLM</kbd> <kbd>StateGraph</kbd> <kbd>TavilySearch</kbd> </sub>|
+| **🕸️ Web Chatbot project** | Implemented an Agentic Chatbot project with web functionaility using Langgraph. <br><sub>*Tech:* <kbd>streamlit</kbd> <kbd>GroqLLM</kbd> <kbd>StateGraph</kbd> <kbd>TavilySearchResults</kbd> </sub>|
